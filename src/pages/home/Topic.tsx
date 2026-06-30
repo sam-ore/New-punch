@@ -1,4 +1,3 @@
-// import death from "../../assets/images/alagbada.jpg";
 import im1 from "../../assets/images/tinubu.webp"
 import im2 from "../../assets/images/senate.jpeg"
 import im3 from "../../assets/images/adeleke.jpeg"
