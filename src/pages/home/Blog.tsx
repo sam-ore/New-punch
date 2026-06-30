@@ -16,7 +16,7 @@ const Features = () => {
   return (
 
       
-    <div className='px-17 font-bold mb-6 sm:mb-8  '>
+    <div className='px-4 lg:px-16 font-bold mb-6 '>
       <div className=" mt-5 ">
         <img src={screen} alt="" />
       </div>

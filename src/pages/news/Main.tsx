@@ -10,7 +10,7 @@ import favor from "../../assets/images/same.png"
 const Main = () => {
   return (
     <div className="px-17 ">
-        <div className="flex bg-[#F3F3F3] p-10 gap-2">
+        <div className="lg:flex bg-[#F3F3F3] p-10 gap-2">
   
 <div className="relative">
   {/* line */}
@@ -107,7 +107,7 @@ const Main = () => {
 
 
   {/* ads */}
-  <img src={fiht} alt="" className="ml-3"/>
+  <img src={fiht} alt="" className="ml-3 hidden lg:block"/>
   {/* ads */}
 
   
@@ -398,8 +398,8 @@ const Main = () => {
     <div className="bg-[#F0F0F0] h-120">
     <p className="text-center">Advertisement</p>
     </div>
-    <img src={watsap} alt="" width={400}/>
-    <img src={bless} alt="" width={450}/>
+    <img src={watsap} alt="" width={400} className="hidden lg:block"/>
+    <img src={bless} alt="" width={450} className="hidden lg:block"/>
     <div className="sticky top-4">
     <img src={favor} alt="" width={450}/>
 
