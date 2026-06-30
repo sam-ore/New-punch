@@ -9,6 +9,8 @@ import death5 from '../../assets/images/hasim.webp'
 import oyo from '../../assets/images/Screenshot 2026-06-04 110903.png'
 import screen from "../../assets/images/Screenshot 2026-06-04 110046.png"
 import favor from "../../assets/images/favor.png"
+import favors from "../../assets/images//536067438_1185862803573366_5439721260228144688_n_1782816451-313x203.webp"
+import favored from "../../assets/images/ggggggggggggggw.webp"
 
 const Features = () => {
   return (
@@ -68,7 +70,7 @@ const Features = () => {
            <div>
              <div className='flex mt-3 '>
               <div>
-      <img src={React} alt="" />
+      <img src={favors} alt="" />
       <h2>Iyabo Obasanjo dumps APC </h2>
       <p className="text-[15px]  ">Iyabo Obasanjo, daughter of ex-President Obasanjo, has resigned from the APC, alleging persistent disrespect and unfair treatment by the party's leade...</p>
      </div>
@@ -244,7 +246,7 @@ const Features = () => {
            <div>
              <div className='flex mt-3 '>
               <div>
-      <img src={React} alt="" />
+      <img src={favored} alt="" />
       <h2>Adunni Ade Reveals She Welcomed Daughter Two Years Ago, Kept It Private </h2>
       <p className="text-[15px]  ">Actress Adunni Ade reveals she welcomed a daughter two years ago, keeping the news private for peace. Learn about her journey to motherhood....</p>
      </div>
@@ -256,27 +258,27 @@ const Features = () => {
       <div className="grid gap-2 w-full">
 
        <div className="flex gap-1">
-             <div><img src={death} alt="" width={300}/></div>
+             <div><img src={death5} alt="" width={300}/></div>
 
       <h2>Bayelsa’s Karibi-George emerges Miss World Nigeria 2026 </h2>
       </div>
         <div className="h-px w-60 bg-gray-400"></div>
         <div className="flex gap-1">
-             <div><img src={death} alt="" width={300}/></div>
+             <div><img src={death2} alt="" width={300}/></div>
 
       <h2>Musicians must reflect reality — Charly Boy </h2>
       </div>
 
  <div className="h-px w-60 bg-gray-400"></div>
  <div className="flex gap-1">
-            <div><img src={death} alt="" width={200}/></div>
+            <div><img src={death4} alt="" width={200}/></div>
 
       <h2>Prioritise mastery over validation, Gabriel Afolayan advises actors </h2>
       </div>
 
         <div className="h-px w-60 bg-gray-400"></div>
  <div className="flex gap-1">
-              <div><img src={death} alt="" width={300}/></div>
+              <div><img src={death2} alt="" width={300}/></div>
 
       <h2>Ojude Oba 2026: Tradition, tourism and the changing face of Yoruba heritage </h2>
       </div>
@@ -288,21 +290,21 @@ const Features = () => {
 
      <div className="grid gap-2 w-full">
        <div className="flex gap-1">
-              <div><img src={death} alt="" width={300}/></div>
+              <div><img src={death3} alt="" width={300}/></div>
 
       <h2>Adekunle Gold hosts dinner to celebrate new deal </h2>
       </div>
 
         <div className="h-px w-60 bg-gray-400"></div>
        <div className="flex gap-1">
-           <div><img src={death} alt="" width={300}/></div>
+           <div><img src={death1} alt="" width={300}/></div>
 
       <h2>Politics no longer for ordinary Nigerians — Emeka Ike</h2>
       </div>
 
         <div className="h-px w-60 bg-gray-400"></div>
        <div className="flex gap-1">
-              <div><img src={death} alt="" width={300}/></div>
+              <div><img src={death4} alt="" width={300}/></div>
 
       <h2>Nigerian actors shine at Cannes with ‘Clarissa’ </h2>
       </div>
@@ -347,7 +349,7 @@ const Features = () => {
           <div className='flex gap-3.5'>
               <div className="w-px h-20 bg-gray-400"></div>
  <div className="flex gap-1">
-             <div><img src={death} alt="" width={300}/></div>
+             <div><img src={death2} alt="" width={300}/></div>
 </div>
       <h2>Gospel Kinanee’s 18-year ordeal: Fix this broken justice system </h2>
       </div>
@@ -355,7 +357,7 @@ const Features = () => {
 <div className='flex gap-3.5'>
               <div className="w-px h-20 bg-gray-400"></div>
  <div className="flex gap-1">
-             <div><img src={death} alt="" width={300}/></div>
+             <div><img src={death4} alt="" width={300}/></div>
 </div>
       <h2>Beyond Fulani militants’ menace</h2>
       </div>
@@ -379,14 +381,14 @@ const Features = () => {
         </div>
         <div className='flex '>
         <div className="flex gap-1">
-             <div><img src={death} alt="" width={300}/></div>
+             <div><img src={death1} alt="" width={300}/></div>
       <h2>PUNCH Panorama: Common regrets people have as they get older </h2>
       </div>
 
           <div className='flex gap-3.5'>
               <div className="w-px h-20 bg-gray-400"></div>
  <div className="flex gap-1">
-             <div><img src={death} alt="" width={300}/></div>
+             <div><img src={death3} alt="" width={300}/></div>
 </div>
       <h2>PUNCH Panorama: Dealing with curses through hard work </h2>
       </div>
@@ -428,13 +430,13 @@ const Features = () => {
       <div className="grid gap-2 w-full">
 
        <div className="flex gap-1">
-             <div><img src={death} alt="" width={300}/></div>
+             <div><img src={death2} alt="" width={300}/></div>
 
       <h2>Politicians and Nigeria’s economic trajectory </h2>
       </div>
         <div className="h-px w-60 bg-gray-400"></div>
         <div className="flex gap-1">
-             <div><img src={death} alt="" width={300}/></div>
+             <div><img src={death3} alt="" width={300}/></div>
 
       <h2>Saving APC from APC </h2>
       </div>
@@ -448,7 +450,7 @@ const Features = () => {
 
         <div className="h-px w-60 bg-gray-400"></div>
  <div className="flex gap-1">
-              <div><img src={death} alt="" width={300}/></div>
+              <div><img src={death3} alt="" width={300}/></div>
 
       <h2>Health benefits of stretching (1) </h2>
       </div>
@@ -460,7 +462,7 @@ const Features = () => {
 
      <div className="grid gap-2 w-full">
        <div className="flex gap-1">
-              <div><img src={death} alt="" width={300}/></div>
+              <div><img src={death5} alt="" width={300}/></div>
 
       <h2>Nigeria’s population growth: Curse or blessing </h2>
       </div>
@@ -474,7 +476,7 @@ const Features = () => {
 
         <div className="h-px w-60 bg-gray-400"></div>
        <div className="flex gap-1">
-              <div><img src={death} alt="" width={300}/></div>
+              <div><img src={death4} alt="" width={300}/></div>
 
       <h2>Prolonged emotional pain can undermine your marital stability </h2>
       </div>
@@ -510,14 +512,14 @@ const Features = () => {
         </div>
         <div className='flex '>
         <div className="flex gap-1">
-             <div><img src={death} alt="" width={300}/></div>
+             <div><img src={death1} alt="" width={300}/></div>
       <h2>Farooq Oreagba: From sidestream to mainstream </h2>
       </div>
 
           <div className='flex gap-3.5'>
               <div className="w-px h-20 bg-gray-400"></div>
  <div className="flex gap-1">
-             <div><img src={death} alt="" width={300}/></div>
+             <div><img src={death3} alt="" width={300}/></div>
 </div>
       <h2>US Green Card: What every Nigerian in America must </h2>
       </div>
@@ -525,7 +527,7 @@ const Features = () => {
 <div className='flex gap-3.5'>
               <div className="w-px h-20 bg-gray-400"></div>
  <div className="flex gap-1">
-             <div><img src={death} alt="" width={300}/></div>
+             <div><img src={death5} alt="" width={300}/></div>
 </div>
       <h2>The moral bankruptcy of recruiting Africans for the Russia-Ukraine war </h2>
       </div>

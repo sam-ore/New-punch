@@ -1,4 +1,12 @@
 import death from "../../assets/images/alagbada.jpg";
+import im1 from "../../assets/images/tinubu.webp"
+import im2 from "../../assets/images/senate.jpeg"
+import im3 from "../../assets/images/adeleke.jpeg"
+import im4 from "../../assets/images/no4.webp"
+import im5 from "../../assets/images/kano.jpg"
+import im6 from "../../assets/images/n07.webp"
+import im7 from "../../assets/images/no5.webp"
+import im8 from "../../assets/images/no2.webp"
 
 
 
@@ -17,7 +25,7 @@ const Topic = () => {
             <div className="h-px flex-1 bg-[#00000061]"></div>
           </div>
           
-          <img src={death} alt="Special Features" className="w-full h-[180px] sm:h-[200px] object-cover rounded-lg mb-3" />
+          <img src={im6} alt="Special Features" className="w-full h-[180px] sm:h-[200px] object-cover rounded-lg mb-3" />
           
           <div className="space-y-3">
             <h2 className="text-sm sm:text-base">VIO powers: What Appeal Court ruling means for motorists</h2>
@@ -44,7 +52,7 @@ const Topic = () => {
             <div className="h-px flex-1 bg-[#00000061]"></div>
           </div>
           
-          <img src={death} alt="Interview" className="w-full h-[180px] sm:h-[200px] object-cover rounded-lg mb-3" />
+          <img src={im1} alt="Interview" className="w-full h-[180px] sm:h-[200px] object-cover rounded-lg mb-3" />
           
           <div className="space-y-3">
             <h2 className="text-sm sm:text-base font-serif">Kwara NSCDC commandant shielding officers who assaulted me — Lawyer</h2>
@@ -71,7 +79,7 @@ const Topic = () => {
             <div className="h-px flex-1 bg-[#00000061]"></div>
           </div>
           
-          <img src={death} alt="Spice" className="w-full h-[180px] sm:h-[200px] object-cover rounded-lg mb-3" />
+          <img src={im2} alt="Spice" className="w-full h-[180px] sm:h-[200px] object-cover rounded-lg mb-3" />
           
           <div className="space-y-3">
             <h2 className="text-sm sm:text-base">Iconic women beside Nigeria's business titans</h2>
@@ -98,7 +106,7 @@ const Topic = () => {
             <div className="h-px flex-1 bg-[#00000061]"></div>
           </div>
           
-          <img src={death} alt="Panorama" className="w-full h-[180px] sm:h-[200px] object-cover rounded-lg mb-3" />
+          <img src={im7} alt="Panorama" className="w-full h-[180px] sm:h-[200px] object-cover rounded-lg mb-3" />
           
           <div className="space-y-3">
             <h2 className="text-sm sm:text-base">Rural industrialisation key to ending poverty — Oyelaran-Oyeyinka</h2>
@@ -127,7 +135,7 @@ const Topic = () => {
             <div className="h-px flex-1 bg-[#00000061]"></div>
           </div>
           
-          <img src={death} alt="Technology" className="w-full h-[180px] sm:h-[200px] object-cover rounded-lg mb-3" />
+          <img src={im8} alt="Technology" className="w-full h-[180px] sm:h-[200px] object-cover rounded-lg mb-3" />
           
           <div className="space-y-3">
             <h2 className="text-sm sm:text-base">NiRA convenes stakeholders to strengthen internet sovereignty</h2>
@@ -154,7 +162,7 @@ const Topic = () => {
             <div className="h-px flex-1 bg-[#00000061]"></div>
           </div>
           
-          <img src={death} alt="Family" className="w-full h-[180px] sm:h-[200px] object-cover rounded-lg mb-3" />
+          <img src={im3} alt="Family" className="w-full h-[180px] sm:h-[200px] object-cover rounded-lg mb-3" />
           
           <div className="space-y-3">
             <h2 className="text-sm sm:text-base">How to protect yourself from sexual predators</h2>
@@ -181,7 +189,7 @@ const Topic = () => {
             <div className="h-px flex-1 bg-[#00000061]"></div>
           </div>
           
-          <img src={death} alt="Health" className="w-full h-[180px] sm:h-[200px] object-cover rounded-lg mb-3" />
+          <img src={im4} alt="Health" className="w-full h-[180px] sm:h-[200px] object-cover rounded-lg mb-3" />
           
           <div className="space-y-3">
             <h2 className="text-sm sm:text-base">Cholera: Children worst hit as 5,260 cases, 67 deaths recorded</h2>
@@ -208,7 +216,7 @@ const Topic = () => {
             <div className="h-px flex-1 bg-[#00000061]"></div>
           </div>
           
-          <img src={death} alt="Education" className="w-full h-[180px] sm:h-[200px] object-cover rounded-lg mb-3" />
+          <img src={im5} alt="Education" className="w-full h-[180px] sm:h-[200px] object-cover rounded-lg mb-3" />
           
           <div className="space-y-3">
             <h2 className="text-sm sm:text-base">UNN dismisses attack rumour, bans motorcycles on campus</h2>
