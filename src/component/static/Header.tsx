@@ -12,7 +12,7 @@ import { useState } from "react";
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
-  const [selectedOption, setSelectedOption] = useState("");
+  // const [selectedOption, setSelectedOption] = useState("");
 
   const toggleMenu = () => {
     setIsMenuOpen(!isMenuOpen);
